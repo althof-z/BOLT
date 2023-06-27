@@ -9,7 +9,6 @@
                                 <span>For rent electric vehicles</span>
                                 <h2>Flash Fast</h2>
                                 <span>Membantu masalah anda secepat kilat!</span><br>
-                                <a href="http://localhost/uas/index.php?page=about" class="primary-btn">See more about us</a>
                             </div>
                         </div>
                     </div>
@@ -22,7 +21,7 @@
                             <div class="hero__text">
                                 <span>For rent</span>
                                 <h2>electric motorcycle</h2>
-                                <a href="http://localhost/uas/index.php?page=product" class="primary-btn">See more</a>
+                                <a href="index.php?page=product" class="primary-btn">See more</a>
                             </div>
                         </div>
                     </div>
@@ -35,7 +34,7 @@
                             <div class="hero__text">
                                 <span>For rent</span>
                                 <h2>electric bike</h2>
-                                <a href="http://localhost/uas/index.php?page=product" class="primary-btn">See more</a>
+                                <a href="index.php?page=product" class="primary-btn">See more</a>
                             </div>
                         </div>
                     </div>
@@ -60,7 +59,7 @@
                             salah satunya adalah adanya kendaraan listrik. 
                             Oleh karena itu, kami menawarkan motor dan sepeda listrik untuk disewakan bagi anda yang ingin mencoba dan membantu mengurngi polusi yang ada di dunia.
                         </p>
-                        <a href="http://localhost/uas/index.php?page=product" class="primary-btn">View all product</a>
+                        <a href="index.php?page=product" class="primary-btn">View all product</a>
                     </div>
                 </div>
                 <div class="col-lg-8">
