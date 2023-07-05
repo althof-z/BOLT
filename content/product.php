@@ -33,7 +33,7 @@
 				<div class="col-lg-8 ftco-animate">
 					<div class="text w-100 text-center mb-md-5 pb-md-5">
 						<h1 class="mb-4">Fast &amp; Easy Way To Rent A Electric Vehicles</h1>
-						<p style="font-size: 18px;">Flash Fast adalah sebuah perusahaan yang menyediakan jasa penyewaan kendaraan listrik seperti motor listrik dan sepeda listrik</p>
+						<p style="font-size: 18px;">Bolt. adalah sebuah perusahaan yang menyediakan jasa penyewaan kendaraan listrik seperti motor listrik dan sepeda listrik</p>
             		</div>
           		</div>
         	</div>
@@ -99,7 +99,7 @@
 			    						<span class="cat">Electric Motorcycle</span>
 			    						<p class="price ml-auto">Rp.50.000 <span>/day</span></p>
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="index.php?page=rent" class="btn btn-primary py-2 mr-1">Book now</a> <a href="index.php?page=detail" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="#" class="btn btn-primary py-2 mr-1">Book now</a> <a href="index.php?page=detail" class="btn btn-secondary py-2 ml-1">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
@@ -113,7 +113,7 @@
 			    						<span class="cat">Electric Cycle</span>
 			    						<p class="price ml-auto">Rp.45.000 <span>/day</span></p>
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="index.php?page=rent" class="btn btn-primary py-2 mr-1">Book now</a> <a href="index.php?page=detail2" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="#" class="btn btn-primary py-2 mr-1">Book now</a> <a href="index.php?page=detail2" class="btn btn-secondary py-2 ml-1">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
@@ -127,7 +127,7 @@
 			    						<span class="cat">Electric Motor Cycle</span>
 			    						<p class="price ml-auto">Rp.48.000 <span>/day</span></p>
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="index.php?page=rent" class="btn btn-primary py-2 mr-1">Book now</a> <a href="index.php?page=detail3" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="#" class="btn btn-primary py-2 mr-1">Book now</a> <a href="index.php?page=detail3" class="btn btn-secondary py-2 ml-1">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
@@ -141,7 +141,7 @@
 			    						<span class="cat">Electric Cycle</span>
 			    						<p class="price ml-auto">Rp.35.000 <span>/day</span></p>
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="index.php?page=rent" class="btn btn-primary py-2 mr-1">Book now</a>
+		    						<p class="d-flex mb-0 d-block"><a href="#" class="btn btn-primary py-2 mr-1">Book now</a>
 									<a href="index.php?page=detail4" class="btn btn-secondary py-2 ml-1">Details</a></p>
 		    					</div>
 		    				</div>

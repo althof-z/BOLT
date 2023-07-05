@@ -1,13 +1,13 @@
  <!-- Hero Section Begin -->
  <section class="hero">
         <div class="hero__slider owl-carousel">
-            <div class="hero__item set-bg" data-setbg="img/home1.jpg">
+            <div class="hero__item set-bg" data-setbg="img/home1.png">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="hero__text">
                                 <span>For rent electric vehicles</span>
-                                <h2>Flash Fast</h2>
+                                <h2>Bolt.</h2>
                                 <span>Membantu masalah anda secepat kilat!</span><br>
                             </div>
                         </div>

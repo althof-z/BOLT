@@ -66,8 +66,23 @@
                     </iframe>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6" >
-                    <img src="img/gedung.jpg" style="display:block; margin:auto; height:450px;" alt="gedung">
+                <div class="col-lg-6 col-md-6 contact__widget__item__text" >
+                    <h4>Give us Some Feedback!!</h4>
+                    <form method="post" action="Feedback-action.php">
+                        <div class="form-group">
+                            <p for="name">Name</p>
+                            <input type="text" class="form-control" id="name" name="name" required>
+                        </div>
+                        <div class="form-group">
+                            <p for="email">Email</p>
+                            <input type="email" class="form-control" id="email" name="email" required>
+                        </div>
+                        <div class="form-group">
+                            <p for="message">Message</p>
+                            <textarea class="form-control" id="message" name="message" required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
                 </div>
             </div>
         </div>

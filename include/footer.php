@@ -1,5 +1,5 @@
 <footer class="footer">
-        <div class="container-fluid">
+        <div class="container">
             <div class="footer__top">
                 <div class="row">
                     <div class="col-lg-6 col-md-6">
@@ -18,7 +18,7 @@
                     <div class="col-lg-4 col-md-3 col-sm-3">
                         <div class="footer__option__item">
                             <h5>About us</h5>
-                            <p>Formed in 2023 by Komplotan Raden Saleh, For rent electric vehicles</p>
+                            <p>Formed in 2023 by Manusia Kuat, For rent electric vehicles</p>
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-3">
@@ -26,18 +26,13 @@
                             
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-3 col-sm-3">
+                    <div class="col-lg-2 col-md-3 col-sm-3 mx-3">
                         <div class="footer__option__item">
                             <h5>Our product</h5>
                             <ul>
                                 <li><a href="index.php?page=product">Electric Motorcycle</a></li>
                                 <li><a href="index.php?page=product">Electric Bike</a></li>
                             </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-3 col-sm-3" >
-                        <div class="footer__option__item" >
-                            <img src="img/logo.png" style="padding-top:10px;" alt="logo krs">
                         </div>
                     </div>
                 </div>

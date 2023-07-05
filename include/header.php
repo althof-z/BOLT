@@ -3,7 +3,7 @@
             <div class="row">
                 <div class="col-lg-2">
                     <div class="header__logo" >
-                        <a href="index.php"><img src="img/ini.png" alt="logo"></a>
+                        <a href="index.php"><img src="img/logoo.PNG" alt="logo"></a>
                     </div>
                 </div>
                 <div class="col-lg-10">
@@ -12,9 +12,7 @@
                             <ul>
                                 <li ><a  href="index.php?page=home">Home</a></li>
                                 <li ><a  href="index.php?page=product">Product</a></li>
-                                <li ><a  href="index.php?page=contact">Contact</a></li>
-                                |
-                                <li ><a  href="rental">login</a></li>
+                                <li ><a  href="index.php?page=contact">Contact Us</a></li>
                             </ul>
                         </nav>
                     </div>
