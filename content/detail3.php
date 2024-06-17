@@ -14,7 +14,7 @@
                            <b>Jarak                      </b>40km<br>
                            <b>Kekuasaan                  </b>2.3kW<br>
                         </p>
-                        <a href="http://localhost/uas/index.php?page=rent" class="primary-btn">Book Now</a>
+                        <a href="" class="primary-btn">Book Now</a>
                     </div>
                 </div>
                 <div class="col-lg-8">
